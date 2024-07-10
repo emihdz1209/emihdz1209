@@ -11,11 +11,20 @@
 
 
 ## Github Stats  
-![Emilios's GitHub stats](https://github-readme-stats.vercel.app/api?username=emihdz1209&show_icons=true&theme=merko)
 
-<br/>  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=emihdz1209&show_icons=true&theme=merko" alt="Emilios's GitHub stats" height="250"/>
+      </td>
+      <td>
+        <img src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/02e1a5c3c43f0a3d89e24cc4dceca9a9.jpg?raw=true" alt="Picture" height="240"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  
 
 <br/>  
 
