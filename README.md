@@ -9,8 +9,7 @@
     </h1>
 </div>
 
-
-## Github Stats  
+<br/> 
 
 <div align="center">
   <table>
