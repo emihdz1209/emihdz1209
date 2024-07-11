@@ -24,14 +24,24 @@
   </table>
 </div>
 
+<br/>
 
-<br/>  
+## │█║▌║▌║ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ║▌║▌║█│
 
-<div align="left">
-    <h2  style="font-size: 9px;">
-      │█║▌║▌║ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ║▌║▌║█│
-    </h2>
-</div>
+My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
+
+<br/>
+
+## │█║▌║▌║ 𝚆𝚑𝚊𝚝 𝙸 𝚊𝚖 currently 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ║▌║▌║█│
+
+- Polishing my skills in **CSS3**
+- Deepening my understandings on **Flask**
+- Learning how to use **React** to create more complex and interactive interfaces.
+
+<br/>
+
+## │█║▌║▌║ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ║▌║▌║█│
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
