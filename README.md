@@ -28,9 +28,14 @@
 
 ## │█║▌║▌║ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ║▌║▌║█│
 
-My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
+<img width="30%" alt="GIF" align="right" src="https://i.pinimg.com/originals/a2/fc/0a/a2fc0a4da85618ef68833df71be82c32.jpg">
 
-<br/>
+My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to     illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
+
+</br>
+</br>
+</br>
+</br>
 
 ## │█║▌║▌║ 𝚆𝚑𝚊𝚝 𝙸 𝚊𝚖 currently 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ║▌║▌║█│
 
