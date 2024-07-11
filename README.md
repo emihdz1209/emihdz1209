@@ -18,7 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=emihdz1209&show_icons=true&theme=merko" alt="Emilios's GitHub stats" height="250"/>
       </td>
       <td>
-        <img src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/go.png?raw=true" alt="Picture" height="240"/>
+        <img src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/ezgif.com-animated-gif-maker.gif?raw=true" alt="Picture" height="240"/>
       </td>
     </tr>
   </table>
