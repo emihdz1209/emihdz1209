@@ -28,7 +28,7 @@
 
 ## │█║▌║▌║ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ║▌║▌║█│
 
-<img width="30%" alt="GIF" align="right" src="https://i.pinimg.com/originals/a2/fc/0a/a2fc0a4da85618ef68833df71be82c32.jpg">
+<img width="30%" align="right" src="https://i.pinimg.com/originals/a2/fc/0a/a2fc0a4da85618ef68833df71be82c32.jpg">
 
 My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to     illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
 
@@ -63,6 +63,7 @@ My name is Emilio, I am a computer science student from Mexico. While still very
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=emihdz1209&color=95e000&style=for-the-badge" align="center" />
+<img width="10%" src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/Spyder.png?raw=true" align="center">
 </div>  
 
 <br />
