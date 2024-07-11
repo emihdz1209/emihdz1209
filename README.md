@@ -59,11 +59,12 @@ My name is Emilio, I am a computer science student from Mexico. While still very
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
+##  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=emihdz1209&color=95e000&style=for-the-badge" align="center" />
-<img width="10%" src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/Spyder.png?raw=true" align="center">
+<img width="5%" src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/Spyder.png?raw=true" align="center">
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=emihdz1209&color=7afe15&style=for-the-badge" align="center" />
 </div>  
 
 <br />
