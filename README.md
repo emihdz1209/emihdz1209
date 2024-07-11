@@ -26,13 +26,13 @@
 
 <br/>
 
-## │█║▌║▌║ 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ║▌║▌║█│
+## 🕸 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ⋆
 
 My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to     illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
 
 <br/>
 
-## │█║▌║▌║ 𝚆𝚑𝚊𝚝 𝙸 𝚊𝚖 currently 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ║▌║▌║█│
+## 🕸 𝚆𝚑𝚊𝚝 𝙸 𝚊𝚖 currently 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ⋆
 
 - Polishing my skills in **CSS3**
 - Deepening my understandings on **Flask**
@@ -40,7 +40,7 @@ My name is Emilio, I am a computer science student from Mexico. While still very
 
 <br/>
 
-## │█║▌║▌║ 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ║▌║▌║█│
+## 🕸 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 ⋆
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
