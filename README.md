@@ -1,15 +1,8 @@
 <div align="center">
 <img src="https://github.com/emihdz1209/emihdz1209/blob/main/Images/MOSHED-2024-7-10-19-21-41-ezgif.com-resize.gif?raw=true" align="center" style="width: 100%" />
 </div>  
-  
 
-<div align="center">
-    <h1 style="font-size: 50px;">
-        ██▓▒­░⡷⠂- 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 -⠐⢾░▒▓██
-    </h1>
-</div>
-
-<br/> 
+<br/>
 
 <div align="center">
   <table>
@@ -24,15 +17,19 @@
   </table>
 </div>
 
-<br/>
+<div align="center">
+    <h1 style="font-size: 50px;">
+        ██▓▒­░⡷⠂- 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 -⠐⢾░▒▓██
+    </h1>
+</div>
 
 ## 🕸 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ⋆
 
-My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest in animation, game design, front-end developing, and UI design. In my free time, I love to     illustrate, watch films, enjoy horror fiction, and taking my dog out for walks 🐕.
+<div align="center">
+<p>My name is Emilio, I am a computer science student from Mexico. While still very new, I have a deep interest<br/>in animation,game design, front-end developing, and UI design. In my free time, I love to     illustrate,<br/>watch films, enjoy horror fiction,and taking my dog out for walks 🐕.</p>
+</div>
 
-<br/>
-
-## 🕸 𝚆𝚑𝚊𝚝 𝙸 𝚊𝚖 currently 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 ⋆
+## 🕸 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘 ⋆
 
 - Polishing my skills in **CSS3**
 - Deepening my understandings on **Flask**
